@@ -3,6 +3,7 @@
 </div>
 <br/><br/><br/>
 <div id="header" align="center">
+              
   <img src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/200.webp?cid=ecf05e471q20exfbqxo0nz6l223u7bxtbr09skyob0ng0n3m&ep=v1_gifs_related&rid=200.webp&ct=g" width="200" height="200"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/200.webp?cid=ecf05e47fjic7wfpgu9essqjg75xvpagnu13el55ezwk31ai&ep=v1_gifs_related&rid=200.webp&ct=g" width="200" height="200"/> 
   <img src="https://media0.giphy.com/media/cNfIqjpCY1zqfaLmd8/200w.webp?cid=ecf05e476crbgkork24wh1saz22aswpbdfpp43wqxyq6e1e7&ep=v1_gifs_related&rid=200w.webp&ct=g" width="200" height="200"/>
@@ -20,7 +21,7 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=kumar-sharwan729&style=flat-square&color=blue" alt=""/>
   <br/><br/><br/>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/200.webp?cid=ecf05e47fjic7wfpgu9essqjg75xvpagnu13el55ezwk31ai&ep=v1_gifs_related&rid=200.webp&ct=g" width="600" height="300"/>
@@ -36,14 +37,16 @@
 
 ### :man_technologist: About Me :
 
-A passionate Java developer with expertise in building scalable web applications using Spring Boot and related technologies.  
+A passionate Java developer with expertise in building scalable web applications using Spring Boot and related technologies.
+
+I am hardworking, committed and focused executive with comprehensive knowledge and understanding of product design and development, Presently working as, Project Engineer in Centre for Development of Advanced Computing (C-DAC, a Govt. of India R&D Organization) and heading its C-DAC Noida Centre.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharwan-kumar-project-engineer-at-c-dac-noida-meity-07856417b)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -63,7 +66,7 @@ A passionate Java developer with expertise in building scalable web applications
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
 # Skills:
