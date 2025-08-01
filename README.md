@@ -39,7 +39,7 @@
 
 A passionate Java developer with expertise in building scalable web applications using Spring Boot and related technologies.
 
-I am hardworking, committed and focused executive with comprehensive knowledge and understanding of product design and development, Presently working as, Project Engineer in Centre for Development of Advanced Computing (C-DAC, a Govt. of India R&D Organization) and heading its C-DAC Noida Centre.
+I am a hardworking, committed, and focused executive with comprehensive knowledge and understanding of product design and development. Presently working as a Project Engineer in Centre for Development of Advanced Computing (C-DAC, a Govt. of India R&D Organization) and heading its C-DAC Noida Centre.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
